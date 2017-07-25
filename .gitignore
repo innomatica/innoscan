@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# output files
+*.pdf
+
+# font files
+*.ttf
+*.otf
+
+# meld output
+*.orig
+
+# backup files
+*.bak
+
+# local data
+local/
